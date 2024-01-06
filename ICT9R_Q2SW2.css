@@ -1,0 +1,36 @@
+body {
+	background-color: lightgoldenrodyellow;
+}
+
+#one {
+	display: block;
+	margin: auto;
+	border-radius: 10px;
+	background-color: rgb(225, 122, 75, 1.0);
+}
+
+#picks {
+	letter-spacing: 5px;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+table, td {
+	margin: auto;
+	padding: 15px;
+	border-spacing: 20px;
+	margin-top: 1.5%;
+}
+
+td {
+	border: solid 1px;
+	border-collapse: collapse;
+	border-radius: 10px;
+	background-color: wheat;
+	text-align: center;
+}
+
+h2, p {
+	text-align: center;
+}
+
